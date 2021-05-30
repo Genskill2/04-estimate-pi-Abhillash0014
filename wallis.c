@@ -34,5 +34,5 @@ ans= ans*(nr/(nr-1));
 
 } 
 
-return ans*2; 
+return ans*2;  
 }
